@@ -1,1 +1,1 @@
-# shtyrm.com
+# shtyrm.github.io
