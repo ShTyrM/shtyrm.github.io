@@ -424,6 +424,16 @@ ol {
 	padding-bottom: 80px;
 }
 
+.service-item1 {
+	text-align: center;
+	background: #222222;
+	padding: 0px 20px 0;
+	height: 160px;
+	-webkit-transition: all 0.3s;
+	-o-transition: all 0.3s;
+	transition: all 0.3s;
+}
+
 .service-item {
 	text-align: center;
 	background: #222222;
