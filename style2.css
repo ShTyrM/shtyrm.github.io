@@ -63,9 +63,9 @@ body
 {
     background: no-repeat;
     position: absolute;
-    height: 900px;
+    height: 1200px;
     width: 100%;
-    max-width: 1500px;
+    max-width: 2048px;
     overflow: hidden;
     background-size:cover;
 }
@@ -74,7 +74,7 @@ body
    background-image: url(img/snow1.png);
    position:absolute;
    width: 100%;
-    height:900px;
+    height:1200px;
     animation: snow1 18s linear infinite;    
 }
 .snow2
@@ -82,7 +82,7 @@ body
     background-image: url(img/snow2.png),url(img/snow3.png);
     animation: snow2 10s linear infinite;
     width: 100%;
-    height:900px;
+    height:1200px;
     position:absolute;
 }
 @keyframes snow2
@@ -203,3 +203,4 @@ input[type="submit"]:active
 {
 	opacity: 0.8;
 }
+
